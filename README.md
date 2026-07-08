@@ -71,8 +71,9 @@ Once your card looks good and your image displays correctly in your browser, sub
    ```bash
    git push origin main
    ```
-4. Go back to the original classroom repository on GitHub.
-5. Click the **"Compare & pull request"** button that appears.
-6. Click **"Create pull request"**.
+4. Go to your own personal GitHub profile page and open your fork repository (it will look like YOUR_USERNAME/student-profiles).
+5. Right below the repository name tabs, look for a gray bar that says: "This branch is 1 commit ahead of original-owner:main".
+6. CRight next to that sentence, look for the "Contribute" dropdown button and click it.Click the green "Open pull request" button that pops out.
+7. Review your changes at the bottom of the page, then click the final green "Create pull request" button.
 
 🎉 **That's it!** Once approved, your profile card will go live on the site.
